@@ -1,5 +1,3 @@
-Sure! Here's a sample README file for your lunch time calculator website. You can include this README file in your GitHub repository to provide an overview and instructions for your project.
-
 ### README.md
 
 ```markdown
@@ -72,8 +70,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Thanks to all the open-source contributors whose libraries and frameworks were used in this project.
 
 ---
-
-Feel free to customize this README file as needed for your project. If you have any questions or need further assistance, feel free to ask!
 ```
 
 Make sure to replace placeholders like `<your-username>` with your actual GitHub username and `<repository-name>` with the name of your repository. Save this content in a file named `README.md` and add it to your GitHub repository. This will provide visitors with a clear understanding of your project and how to use it.
